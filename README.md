@@ -4,3 +4,9 @@
 <body>
 </body>
 ```
+
+```js
+function aaa(){
+    alert('hello world!');
+}
+```
