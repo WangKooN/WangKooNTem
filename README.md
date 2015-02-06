@@ -10,3 +10,7 @@ function aaa(){
     alert('hello world!');
 }
 ```
+
+```css
+#wrapper{overflow:hidden}
+```
